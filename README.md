@@ -1,3 +1,12 @@
+# Dependencies
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install react-markdown
+npm install react-router-dom
+npm install react-uuid
+npm install react-scripts
+npm install web-vitals
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
